@@ -3,5 +3,8 @@
   "minVersionName":"1.1.1",
   "maxVersionCode":"1",
   "maxVersionName":"1.1.1",
-  "haha":123
+  "haha":123,
+  "heihei":{
+    "haha":"2134"
+  }
 }
